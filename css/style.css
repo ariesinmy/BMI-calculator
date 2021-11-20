@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.body_type {
+    text-align: center;
+    background-color: beige;
+}
+
+.input_block {
+    background-color: aliceblue;
+    margin: 1rem;
+    text-align: center;
+    border: 5px solid rgba(150, 150, 150, 0.5);
+    padding: 3rem;
+}
+
+.form_input {
+    border: 1px solid rgba(150, 150, 150, 1);
+    width: 200px;
+    padding: 1rem;
+}
+
+.button_type {
+    margin: 10px;
+    height: 50px;
+    width: 80px;
+    border: 1px solid rgb(9, 14, 14, 0.5);
+}
+
+.hr_setting {
+    width: auto;
+    height: 2px;
+    border: none;
+    background-color: rgba(150, 150, 150, 0.5);
+}
+
+.input_table {
+    margin: auto;
+}
+
+.info_table {
+    margin: auto;
+    margin-top: 1rem;
+    background-color: aliceblue;
+}
