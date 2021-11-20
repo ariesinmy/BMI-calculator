@@ -5,7 +5,7 @@ This is  simple php applet for beginners to quickly understand php concepts
 ## Backend Server
 Using xampp to set up apache and mysql
 
-## Result Display
+## Result Show
 Main page：
 
 ![image](https://user-images.githubusercontent.com/58333941/142721589-ec621ad2-8ff1-4992-a059-6a7a96c26d31.png)
